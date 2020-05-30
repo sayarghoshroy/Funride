@@ -15,7 +15,7 @@ make
 ./Funride
 ```
 
-##### Controls
+#### Controls
 
 <kbd>&#8592;</kbd> Go Left
 
