@@ -1,6 +1,6 @@
 # Funride
 
-### A simpler version of the classic Jetpack Joyride using Python and OpenGL
+### A simpler version of the classic Jetpack Joyride using C++ and OpenGL
 
 ![](https://github.com/sayarghoshroy/Funride/blob/master/images/funride_obs.png)
 
